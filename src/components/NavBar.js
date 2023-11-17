@@ -9,7 +9,7 @@ function NavBar() {
   return <nav>
     <a href="#home">Home </a>
     <a href="#about">About </a>
-    <a href="#home">Projects </a>
+    <a href="#projects">Projects </a>
     
     
     {/* display an <a> tag for each link here */} 
