@@ -8,6 +8,7 @@ function ProjectItem({ name, about, technologies }) {
       <p>{about}</p>
       <div className="technologies">
         <span>
+          <h3></h3>
 
 
 
